@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating beautiful and functional things that benefit others
 - 🌱 I’m currently learning software development and UX design
 - 💞️ I’m looking to collaborate on software development
-- 📫 Reach me at tramhongwa@gmail.com
+- 📫 Reach me at https://www.linkedin.com/in/tram-hong-31b813233/
 
 <!---
 tramnhong/tramnhong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
